@@ -1,12 +1,13 @@
+D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.AssemblyInfoInputs.cache
+D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.AssemblyInfo.cs
+D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.sourcelink.json
 D:\Visual Studio Code\College\DotNet\bin\Debug\net9.0\DotNet.exe
 D:\Visual Studio Code\College\DotNet\bin\Debug\net9.0\DotNet.deps.json
 D:\Visual Studio Code\College\DotNet\bin\Debug\net9.0\DotNet.runtimeconfig.json
 D:\Visual Studio Code\College\DotNet\bin\Debug\net9.0\DotNet.dll
 D:\Visual Studio Code\College\DotNet\bin\Debug\net9.0\DotNet.pdb
-D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
-D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.AssemblyInfoInputs.cache
-D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.AssemblyInfo.cs
-D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.csproj.CoreCompileInputs.cache
 D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.dll
 D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\refint\DotNet.dll
 D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.pdb

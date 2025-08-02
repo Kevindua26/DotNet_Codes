@@ -11,6 +11,26 @@ This repository is created to help course students and others throughout their .
 - All code solutions are organized in the [`/src/`](./src/) directory.
 - Each file in `/src/` corresponds to a specific question or topic.
 
+## ⚙️ Prerequisites
+
+- [.NET SDK 9.0+](https://dotnet.microsoft.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/) or any C# compatible editor
+
+## 🛠️ Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Kevindua26/DotNet_Codes.git
+   cd DotNet
+   ```
+
+2. Restore dependencies:
+
+   ```bash
+   dotnet restore
+   ```
+
 ## 🚀 How to Run a Solution
 
 1. Open the project in Visual Studio Code or your preferred editor.

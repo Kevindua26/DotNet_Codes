@@ -9,7 +9,7 @@ This repository is created to help course students and others throughout their .
 ## 💻 Solutions
 
 - All code solutions are organized in the [`/src/`](./src/) directory.
-- Each file in `/src/` corresponds to a specific question or topic.
+- Each file in [`/src/`](./src/) corresponds to a specific question or topic.
 
 ## ⚙️ Prerequisites
 

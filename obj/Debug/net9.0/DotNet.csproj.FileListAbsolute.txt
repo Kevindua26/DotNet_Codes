@@ -13,3 +13,18 @@ D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\refint\DotNet.dll
 D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.pdb
 D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\DotNet.genruntimeconfig.cache
 D:\Visual Studio Code\College\DotNet\obj\Debug\net9.0\ref\DotNet.dll
+D:\Work\VSCode\DotNet_Codes\bin\Debug\net9.0\DotNet.exe
+D:\Work\VSCode\DotNet_Codes\bin\Debug\net9.0\DotNet.deps.json
+D:\Work\VSCode\DotNet_Codes\bin\Debug\net9.0\DotNet.runtimeconfig.json
+D:\Work\VSCode\DotNet_Codes\bin\Debug\net9.0\DotNet.dll
+D:\Work\VSCode\DotNet_Codes\bin\Debug\net9.0\DotNet.pdb
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.AssemblyInfoInputs.cache
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.AssemblyInfo.cs
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.csproj.CoreCompileInputs.cache
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.sourcelink.json
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.dll
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\refint\DotNet.dll
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.pdb
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\DotNet.genruntimeconfig.cache
+D:\Work\VSCode\DotNet_Codes\obj\Debug\net9.0\ref\DotNet.dll

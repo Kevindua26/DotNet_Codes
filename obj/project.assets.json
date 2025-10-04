@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kevin\\.nuget\\packages\\": {},
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Code\\College\\DotNet\\DotNet.csproj",
+      "projectUniqueName": "D:\\Work\\VSCode\\DotNet_Codes\\DotNet.csproj",
       "projectName": "DotNet",
-      "projectPath": "D:\\Visual Studio Code\\College\\DotNet\\DotNet.csproj",
-      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Code\\College\\DotNet\\obj\\",
+      "projectPath": "D:\\Work\\VSCode\\DotNet_Codes\\DotNet.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\VSCode\\DotNet_Codes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
